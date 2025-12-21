@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o The-Gyro! 👋
 
-<!--
-**The-Gyro/The-Gyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Estudante de Ciência de Dados | 3º Semestre na UNIVESP
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil! Sou um entusiasta de dados em início de carreira, focado em transformar informações em insights e aprender as tecnologias que estão moldando o futuro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Formação e Certificações
+* **Graduação:** Bacharelado em **Ciência de Dados** na UNIVESP (Universidade Virtual do Estado de São Paulo).
+* **Certificações Recentes (Santander & Google):**
+    * **Python Fundamentals** (Santander Bootcamp).
+    * **Domine o Gemini** (IA Generativa aplicada).
+    * **Inglês para Negócios - Parte 1**.
+
+### 🛠️ Stack e Interesses
+* **Linguagens:** Python para análise de dados.
+* **IA & Ferramentas:** Engenharia de Prompt com Gemini, Google Colab.
+* **Foco Atual de Estudos:** Estatística, manipulação de bibliotecas (Pandas/NumPy) e visualização de dados,Excel, Inglês...
+
+### ♟️ No tempo livre
+* Gosto de praticar estratégia jogando xadrez no **Lichess**.
+
+---
+
+### 📬 MUITO PRAZER
+[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygor-martins-a44501317/)
