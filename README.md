@@ -8,9 +8,9 @@ Bem-vindo ao meu perfil! Sou um entusiasta de dados em início de carreira, foca
 
 ### 🎓 Formação e Certificações
 * **Graduação:** Bacharelado em **Ciência de Dados** na UNIVESP (Universidade Virtual do Estado de São Paulo).
-* **Certificações Recentes (Santander & Google):**
-    * **Python Fundamentals** (Santander Bootcamp).
-    * **Domine o Gemini** (IA Generativa aplicada).
+* **Certificações Recentes (Santander):**
+    * **Python Fundamentals** .
+    * **Domine o Gemini** .
     * **Inglês para Negócios - Parte 1**.
 
 ### 🛠️ Stack e Interesses
