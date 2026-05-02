@@ -1,6 +1,6 @@
 # Olá, eu sou o The-Gyro! 👋
 
-### 📊 Estudante de Ciência de Dados | 3º Semestre na UNIVESP
+### 📊 Estudante de Ciência de Dados | 4º Semestre na UNIVESP
 
 Bem-vindo ao meu perfil! Sou um entusiasta de dados em início de carreira, focado em transformar informações em insights e aprender as tecnologias que estão moldando o futuro.
 
